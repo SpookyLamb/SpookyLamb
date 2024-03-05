@@ -1,6 +1,6 @@
 - Hi, I’m @SpookyLamb (Madeline Carlson).
 - I’m interested in game and web development.
-- I’m currently learning Godot and WebDev.
+- I’m currently learning Godot/GameDev and WebDev.
 - I’m looking to collaborate on... nothing, at the moment!
 - You can reach me by messaging me here on GitHub.
 - Pronouns: She/Her
