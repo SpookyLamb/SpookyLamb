@@ -1,7 +1,7 @@
 - Hi, I’m @SpookyLamb (Madeline Carlson).
-- I’m interested in game and web development.
-- I’m currently learning Godot/GameDev and WebDev.
-- I’m looking to collaborate on... nothing, at the moment!
-- You can reach me by messaging me here on GitHub.
+- I’m a game developer and a web developer.
+- I’m currently learning the Godot Engine and React/Django.
+- I’m looking to collaborate on my game project, Black Coven!
+- You can reach me at my email: madeline.carlson.business@gmail.com
 - Pronouns: She/Her
 - Fun Fact: I've been coding since I was 15!
